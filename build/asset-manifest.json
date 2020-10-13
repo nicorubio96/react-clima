@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nicorubio96/react-clima.git/static/css/main.b9d09034.chunk.css",
+    "main.js": "/nicorubio96/react-clima.git/static/js/main.366bbf9d.chunk.js",
+    "main.js.map": "/nicorubio96/react-clima.git/static/js/main.366bbf9d.chunk.js.map",
+    "runtime-main.js": "/nicorubio96/react-clima.git/static/js/runtime-main.82d25cbb.js",
+    "runtime-main.js.map": "/nicorubio96/react-clima.git/static/js/runtime-main.82d25cbb.js.map",
+    "static/js/2.9143d7fe.chunk.js": "/nicorubio96/react-clima.git/static/js/2.9143d7fe.chunk.js",
+    "static/js/2.9143d7fe.chunk.js.map": "/nicorubio96/react-clima.git/static/js/2.9143d7fe.chunk.js.map",
+    "index.html": "/nicorubio96/react-clima.git/index.html",
+    "precache-manifest.dca238dc5c801f46c855edad0c5e2726.js": "/nicorubio96/react-clima.git/precache-manifest.dca238dc5c801f46c855edad0c5e2726.js",
+    "service-worker.js": "/nicorubio96/react-clima.git/service-worker.js",
+    "static/css/main.b9d09034.chunk.css.map": "/nicorubio96/react-clima.git/static/css/main.b9d09034.chunk.css.map",
+    "static/js/2.9143d7fe.chunk.js.LICENSE.txt": "/nicorubio96/react-clima.git/static/js/2.9143d7fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82d25cbb.js",
+    "static/js/2.9143d7fe.chunk.js",
+    "static/css/main.b9d09034.chunk.css",
+    "static/js/main.366bbf9d.chunk.js"
+  ]
+}
